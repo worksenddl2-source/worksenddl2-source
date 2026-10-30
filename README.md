@@ -24,17 +24,17 @@ class PhysicalAIDeveloper:
     def __init__(self):
         self.name     = "worksenddl2"
         self.role     = "Physical AI Developer"
-        self.focus    = ["Robot Perception", "Sim-to-Real", "Edge AI"]
-        self.learning = ["ROS 2", "Isaac Sim", "강화학습"]
+        self.focus    = ["Computer Vision", "Embedded (Arduino)", "AI x Hardware"]
+        self.learning = ["YOLO", "MediaPipe", "Arduino"]
 
     def motto(self):
         return "보고, 판단하고, 움직이는 AI를 만든다."
 ```
 
-- 🔭 **관심 분야**: 로봇 인지(컴퓨터 비전), 시뮬레이션 기반 로봇 학습, 엣지 디바이스 AI
-- 🛠 **주로 하는 일**: Python 기반 AI 모델 개발, 센서 데이터 처리, 로봇 제어 연동
+- 🔭 **관심 분야**: 컴퓨터 비전(객체 인식·제스처 인식), 임베디드 하드웨어, AI와 하드웨어의 연결
+- 🛠 **해 본 것**: YOLO·MediaPipe 웹캠 비전 앱, 아두이노 회로·센서 실습, Next.js 웹 서비스 배포
 - 🤖 현재 **피지컬 AI 프로젝트**에 참가하고 있습니다.
-- 🌱 지금은 ROS 2와 시뮬레이션 환경을 공부하고 있습니다.
+- 🌱 비전 AI와 임베디드를 엮어 실제로 움직이는 시스템을 만드는 법을 공부하고 있습니다.
 
 ---
 
@@ -45,7 +45,7 @@ class PhysicalAIDeveloper:
 | Project | Description | Stack |
 | :---: | :--- | :---: |
 | 🧩 **Mini App for Python** | Python으로 만든 미니 애플리케이션 모음 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🤖 **Physical AI Project** *(진행 중)* | 피지컬 AI 프로젝트에 참가하여 개발 중입니다 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) |
+| 🤖 **Physical AI Project** *(진행 중)* | 피지컬 AI 프로젝트에 참가하여 개발 중입니다 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-Physical%20AI-76B900?style=flat-square) |
 
 <a href="https://github.com/worksenddl2-source?tab=repositories">
   <img src="https://img.shields.io/badge/📂%20All%20Repositories-1F4E79?style=for-the-badge" />
@@ -55,37 +55,46 @@ class PhysicalAIDeveloper:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack — 직접 배우고 사용해 본 기술
 
 **Language**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B%20(Arduino)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**AI / ML**<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-**Computer Vision**<br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+**AI / Computer Vision**<br/>
+<img src="https://img.shields.io/badge/YOLO%20(Ultralytics)-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-**Robotics / Simulation**<br/>
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+**Embedded / Hardware**<br/>
+<img src="https://img.shields.io/badge/Arduino%20Uno-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/NeoPixel-8E44AD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wokwi%20Simulator-2E7D32?style=for-the-badge&logoColor=white" />
 
-**Hardware / Edge**<br/>
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
+**Web / Backend**<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+**Content / Data**<br/>
+<img src="https://img.shields.io/badge/Manim-1E1E1E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 
 **Environment & Tools**<br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
