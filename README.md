@@ -67,6 +67,19 @@ class CPTEDxPhysicalAI:
 
 ---
 
+## Gallery — 공개 프로젝트 둘러보기
+
+> 카드를 누르면 저장소로 이동합니다.
+
+<table>
+  <tr><td width="33%"><a href="https://github.com/worksenddl2-source/cat-forest-bridge"><img src="./assets/projects/cat-forest-bridge.svg" width="100%" alt="Cat Forest Bridge" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/gesture-overlay"><img src="./assets/projects/gesture-overlay.svg" width="100%" alt="Gesture Overlay" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/pose-snake-game"><img src="./assets/projects/pose-snake-game.svg" width="100%" alt="Pose Apple Game" /></a></td></tr>
+  <tr><td width="33%"><a href="https://github.com/worksenddl2-source/webcam-snake-game"><img src="./assets/projects/webcam-snake-game.svg" width="100%" alt="Webcam Snake" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/soccer-strategy-game"><img src="./assets/projects/soccer-strategy-game.svg" width="100%" alt="Goal Rush" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/saju-web"><img src="./assets/projects/saju-web.svg" width="100%" alt="Saju Web" /></a></td></tr>
+  <tr><td width="33%"><a href="https://github.com/worksenddl2-source/five-keys"><img src="./assets/projects/five-keys.svg" width="100%" alt="Five Keys" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/electronics-basics-slides"><img src="./assets/projects/electronics-basics-slides.svg" width="100%" alt="Electronics Basics" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/pc-build-quote-2026"><img src="./assets/projects/pc-build-quote-2026.svg" width="100%" alt="PC Build Quote" /></a></td></tr>
+  <tr><td width="33%"><a href="https://github.com/worksenddl2-source/hancom-office-restore-skill"><img src="./assets/projects/hancom-office-restore-skill.svg" width="100%" alt="Hancom Restore" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/day5"><img src="./assets/projects/day5.svg" width="100%" alt="Day 5 Notes" /></a></td><td width="33%"><a href="https://github.com/worksenddl2-source/GitPractice"><img src="./assets/projects/GitPractice.svg" width="100%" alt="Git Practice" /></a></td></tr>
+</table>
+
+---
+
 ## Tech Stack — 직접 다뤄 본 기술
 
 **Language**<br/>

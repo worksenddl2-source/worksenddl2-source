@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/><stop offset="0.6" stop-color="#1B2550"/><stop offset="1" stop-color="#2E1F4F"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C9A7FF" stop-opacity="0.35"/><stop offset="1" stop-color="#C9A7FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1026" stop-opacity="0"/><stop offset="1" stop-color="#0B1026" stop-opacity="0.85"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="480" height="270" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="480" height="270" fill="url(#bg)"/>
+    <rect width="480" height="270" fill="url(#grid)"/>
+    <circle cx="340" cy="95" r="150" fill="url(#glow)"/>
+    <g><g transform="translate(285,100) rotate(-14)"><rect x="-26" y="-42" width="52" height="84" rx="6" fill="#2E1F4F" stroke="#C9A7FF" stroke-width="2.5"/><rect x="-19" y="-35" width="38" height="70" rx="3" fill="none" stroke="#C9A7FF" stroke-opacity="0.5"/><text y="9" text-anchor="middle" font-size="26" fill="#C9A7FF">☾</text></g><g transform="translate(340,92) rotate(0)"><rect x="-26" y="-42" width="52" height="84" rx="6" fill="#2E1F4F" stroke="#FFD43B" stroke-width="2.5"/><rect x="-19" y="-35" width="38" height="70" rx="3" fill="none" stroke="#FFD43B" stroke-opacity="0.5"/><text y="9" text-anchor="middle" font-size="26" fill="#FFD43B">☀</text></g><g transform="translate(395,100) rotate(14)"><rect x="-26" y="-42" width="52" height="84" rx="6" fill="#2E1F4F" stroke="#4FD1FF" stroke-width="2.5"/><rect x="-19" y="-35" width="38" height="70" rx="3" fill="none" stroke="#4FD1FF" stroke-opacity="0.5"/><text y="9" text-anchor="middle" font-size="26" fill="#4FD1FF">★</text></g><g transform="translate(435,150) rotate(-35)" fill="#FFD43B"><circle r="10" fill="none" stroke="#FFD43B" stroke-width="4"/><rect x="9" y="-2.5" width="34" height="5"/><rect x="34" y="2" width="4" height="8"/><rect x="26" y="2" width="4" height="6"/></g></g>
+    <rect y="150" width="480" height="120" fill="url(#fade)"/>
+    <rect x="20" y="18" width="64" height="22" rx="11" fill="#C9A7FF" fill-opacity="0.18" stroke="#C9A7FF" stroke-opacity="0.6"/><text x="52" y="33" text-anchor="middle" font-size="11.5" font-weight="700" fill="#C9A7FF">Web App</text>
+    <text x="22" y="214" font-size="27" font-weight="800" fill="#FFFFFF">Five Keys</text>
+    <text x="22" y="241" font-size="14" fill="#C9D1E9">MBTI·혈액형·키·나이·타로 다섯 열쇠 리딩</text>
+    <rect y="265" width="480" height="5" fill="#C9A7FF"/>
+  </g>
+  <rect x="0.5" y="0.5" width="479" height="269" rx="16" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+</svg>
