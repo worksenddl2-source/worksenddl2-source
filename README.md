@@ -1,64 +1,71 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:3776AB&height=220&section=header&text=worksenddl2&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Physical%20AI%20Developer%20%7C%20AI%20that%20sees%2C%20thinks%2C%20and%20moves&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="worksenddl2 — Physical AI × CPTED Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD43B&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;%ED%94%BC%EC%A7%80%EC%BB%AC+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%A4%96;%EC%9E%91%EC%A7%80%EB%A7%8C+%EC%99%84%EC%84%B1%EB%90%9C+%EC%95%B1%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/worksenddl2-source"><img src="https://img.shields.io/badge/GitHub-worksenddl2--source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=worksenddl2-source&style=flat-square&color=3776AB&label=Profile+Views" />
+<a href="https://github.com/worksenddl2-source"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://github.com/worksenddl2-source"><img src="https://img.shields.io/badge/WORKSENDDL2--SOURCE-4FD1FF?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/FOCUS-1B2550?style=for-the-badge" /><img src="https://img.shields.io/badge/PHYSICAL%20AI%20×%20CPTED-FFD43B?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=worksenddl2-source&style=for-the-badge&color=FF4D6D&label=VIEWS" />
 
 </div>
 
 ---
 
-## 🙋 About Me — 어떤 개발자인가
+## About Me — 어떤 개발자인가
 
-**현실 세계에서 보고, 판단하고, 움직이는 AI를 만드는 피지컬 AI 개발자**를 지향합니다.
-모델을 학습시키는 데서 끝나지 않고, 센서·로봇·시뮬레이션과 연결해 실제로 동작하는 시스템으로 완성하는 데 관심이 있습니다.
+> **범죄가 일어난 뒤 쫓는 기술이 아니라, 범죄가 일어나기 전에 막는 기술을 만들고 싶습니다.**
+
+**CPTED(셉테드, 범죄예방 환경설계)** 는 조명·시야·동선 같은 *환경*을 설계해 범죄 기회를 줄이는 기법입니다.
+저는 여기에 **피지컬 AI**, 즉 *보고(카메라) · 판단하고(AI) · 움직이는(하드웨어)* 기술을 더해
+**환경이 스스로 위험을 감지하고 반응하는 공간**을 만드는 개발자가 되는 것이 목표입니다.
 
 ```python
-class PhysicalAIDeveloper:
+class CPTEDxPhysicalAI:
     def __init__(self):
-        self.name     = "worksenddl2"
-        self.role     = "Physical AI Developer"
-        self.focus    = ["Computer Vision", "Embedded (Arduino)", "AI x Hardware"]
-        self.learning = ["YOLO", "MediaPipe", "Arduino"]
+        self.name   = "worksenddl2"
+        self.role   = "Physical AI × CPTED Developer"
+        self.dream  = "AI가 지켜보고, 환경이 반응해, 범죄가 일어나지 않는 거리"
+        self.now    = ["Computer Vision", "Arduino", "Physical AI Project"]
 
-    def motto(self):
-        return "보고, 판단하고, 움직이는 AI를 만든다."
+    def pipeline(self):
+        return ["SEE", "DETECT", "LIGHT UP", "PREVENT"]
 ```
 
-- 🔭 **관심 분야**: 컴퓨터 비전(객체 인식·제스처 인식), 임베디드 하드웨어, AI와 하드웨어의 연결
-- 🛠 **해 본 것**: YOLO·MediaPipe 웹캠 비전 앱, 아두이노 회로·센서 실습, Next.js 웹 서비스 배포
-- 🤖 현재 **피지컬 AI 프로젝트**에 참가하고 있습니다.
-- 🌱 비전 AI와 임베디드를 엮어 실제로 움직이는 시스템을 만드는 법을 공부하고 있습니다.
+| CPTED 원리 | 피지컬 AI로 구현하고 싶은 것 |
+| :--- | :--- |
+| **자연적 감시** (보이는 거리) | 비전 AI가 사각지대의 사람·이상행동을 실시간 감지 |
+| **영역성·활동 지원** (밝고 활기찬 공간) | 사람이 지나가면 반응하는 스마트 조명·센서 |
+| **접근 통제** (위험 구역 관리) | 제스처·자세 인식으로 구조요청 신호를 자동 감지 |
+| **유지관리** (깨진 유리창 방지) | 고장난 조명·시설물을 데이터로 찾아내는 모니터링 |
+
+- 현재 **피지컬 AI 프로젝트**에 참가하며 Python, 비전 AI, 아두이노를 배우고 있습니다.
+- 지금 만드는 프로젝트들은 모두 **CPTED × 피지컬 AI라는 꿈으로 가기 위한 학습 과정**입니다.
 
 ---
 
-## 🚀 Projects — 어떤 프로젝트를 했는가
+## Projects — 꿈으로 가는 학습 과정
+
+> 아래 프로젝트들은 **CPTED × 피지컬 AI**를 접목하기 전, 필요한 기술을 하나씩 익히고 있는 **학습 단계의 결과물**입니다.
 
 <div align="center">
 
-| Project | Description | Stack |
-| :--- | :--- | :---: |
-| 🤖 **Physical AI Project** | 피지컬 AI 프로젝트에 참가하여 개발 중 *(진행 중)* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Physical%20AI](https://img.shields.io/badge/-Physical%20AI-76B900?style=flat-square) |
-| 🎯 [**YOLO26 Webcam**](https://github.com/worksenddl2-source/yolo26-webcam) | Ultralytics YOLO26으로 웹캠 실시간 객체 탐지 & 세그멘테이션 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| ✋ [**MediaPipe Vision Webcam**](https://github.com/worksenddl2-source/mediapipe-vision-webcam) | 손 제스처·얼굴 랜드마크 인식 + 나만의 제스처 학습(scikit-learn) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| 🔌 [**Arduino Uno Practice**](https://github.com/worksenddl2-source/arduino-uno-practice) | LED·버튼·인터럽트·PWM·네오픽셀 등 아두이노 기초 실습 모음 | ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
-| 🛒 [**Orca Electric**](https://github.com/worksenddl2-source/orca-electric) | 아두이노 & 전자부품 쇼핑몰 (결제까지 구현) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Toss%20Payments](https://img.shields.io/badge/-Toss%20Payments-0064FF?style=flat-square) |
+| Project | Description | 꿈과의 연결 | Stack |
+| :--- | :--- | :--- | :---: |
+| **Physical AI Project** | 참가 중인 피지컬 AI 팀 프로젝트 *(진행 중)* | 카메라·AI·하드웨어를 하나로 엮는 연습 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Physical%20AI](https://img.shields.io/badge/-Physical%20AI-76B900?style=flat-square) |
+| [**YOLO26 Webcam**](https://github.com/worksenddl2-source/yolo26-webcam) | Ultralytics YOLO26으로 웹캠 실시간 객체 탐지 & 세그멘테이션 | CCTV 속 사람·물체 실시간 감지 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [**MediaPipe Vision Webcam**](https://github.com/worksenddl2-source/mediapipe-vision-webcam) | 손 제스처·얼굴 랜드마크 인식 + 나만의 제스처 학습(scikit-learn) | 🆘 손짓·자세로 위급 신호 인식 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| [**Arduino Uno Practice**](https://github.com/worksenddl2-source/arduino-uno-practice) | LED·버튼·인터럽트·PWM·네오픽셀 등 아두이노 기초 실습 모음 | 센서 반응형 스마트 조명의 기초 | ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
+| [**Orca Electric**](https://github.com/worksenddl2-source/orca-electric) | 아두이노 & 전자부품 쇼핑몰 (결제까지 구현) | 감지 결과를 보여줄 웹 서비스 경험 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Toss%20Payments](https://img.shields.io/badge/-Toss%20Payments-0064FF?style=flat-square) |
 
 <a href="https://github.com/worksenddl2-source?tab=repositories">
-  <img src="https://img.shields.io/badge/📂%20All%20Repositories-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/All%20Repositories-1F4E79?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
-## 🛠 Tech Stack — 직접 배우고 사용해 본 기술
+## Tech Stack — 직접 배우고 사용해 본 기술
 
 **Language**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
@@ -104,20 +111,20 @@ class PhysicalAIDeveloper:
 
 ---
 
-## 📜 Certifications — 어떤 자격이 있는가
+## Certifications — 어떤 자격이 있는가
 
-- 📖 현재 자격증 취득을 **준비 중**입니다.
+- 현재 자격증 취득을 **준비 중**입니다.
 
 ---
 
-## 🤝 Collaboration — 누구와 협업했는가
+## Collaboration — 누구와 협업했는가
 
-- 🤖 현재 **피지컬 AI 프로젝트**에 팀원으로 참가하여 협업하고 있습니다.
+- 현재 **피지컬 AI 프로젝트**에 팀원으로 참가하여 협업하고 있습니다.
 - 함께 할 프로젝트는 언제든 환영합니다!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -133,8 +140,8 @@ class PhysicalAIDeveloper:
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-**“보고, 판단하고, 움직이는 AI를 만든다.”** 🤖
+**“AI가 지켜보고, 환경이 반응해, 범죄가 일어나지 않는 거리를 만든다.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:1F4E79,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1F4F,50:1B2550,100:0B1026&height=120&section=footer" width="100%" />
 
 </div>
