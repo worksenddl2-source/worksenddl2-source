@@ -43,9 +43,12 @@ class PhysicalAIDeveloper:
 <div align="center">
 
 | Project | Description | Stack |
-| :---: | :--- | :---: |
-| 🧩 **Mini App for Python** | Python으로 만든 미니 애플리케이션 모음 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🤖 **Physical AI Project** *(진행 중)* | 피지컬 AI 프로젝트에 참가하여 개발 중입니다 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-Physical%20AI-76B900?style=flat-square) |
+| :--- | :--- | :---: |
+| 🤖 **Physical AI Project** | 피지컬 AI 프로젝트에 참가하여 개발 중 *(진행 중)* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Physical%20AI](https://img.shields.io/badge/-Physical%20AI-76B900?style=flat-square) |
+| 🎯 [**YOLO26 Webcam**](https://github.com/worksenddl2-source/yolo26-webcam) | Ultralytics YOLO26으로 웹캠 실시간 객체 탐지 & 세그멘테이션 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| ✋ [**MediaPipe Vision Webcam**](https://github.com/worksenddl2-source/mediapipe-vision-webcam) | 손 제스처·얼굴 랜드마크 인식 + 나만의 제스처 학습(scikit-learn) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| 🔌 [**Arduino Uno Practice**](https://github.com/worksenddl2-source/arduino-uno-practice) | LED·버튼·인터럽트·PWM·네오픽셀 등 아두이노 기초 실습 모음 | ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
+| 🛒 [**Orca Electric**](https://github.com/worksenddl2-source/orca-electric) | 아두이노 & 전자부품 쇼핑몰 (결제까지 구현) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Toss%20Payments](https://img.shields.io/badge/-Toss%20Payments-0064FF?style=flat-square) |
 
 <a href="https://github.com/worksenddl2-source?tab=repositories">
   <img src="https://img.shields.io/badge/📂%20All%20Repositories-1F4E79?style=for-the-badge" />
