@@ -41,6 +41,8 @@ class CPTEDxPhysicalAI:
 - 현재 **피지컬 AI 프로젝트**에 참가하며 Python, 비전 AI, 아두이노를 배우고 있습니다.
 - 지금 만드는 프로젝트들은 모두 **CPTED × 피지컬 AI라는 꿈으로 가기 위한 학습 과정**입니다.
 
+<a href="./docs/cpted-physical-ai.md"><img src="https://img.shields.io/badge/READ-CPTED%20%C3%97%20Physical%20AI%20%EA%B5%AC%EC%83%81%20%EB%85%B8%ED%8A%B8-FFD43B?style=for-the-badge&labelColor=1B2550" alt="CPTED × Physical AI 구상 노트" /></a>
+
 ---
 
 ## Projects — 꿈으로 가는 학습 과정
